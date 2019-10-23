@@ -1,0 +1,13 @@
+{
+    "name": "baptiste/php-templating",
+    "require": {
+        "fzaninotto/faker": "v1.8.0",
+        "twig/twig": "v2.12.1"
+    },
+    "authors": [
+        {
+            "name": "Baptiste Bourdier",
+            "email": "mrbou95410@gmail.com"
+        }
+    ]
+}
